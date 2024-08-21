@@ -6,7 +6,7 @@ Avec les nouvelles orientations et ambitions du gouvernement sénégalais de fai
 
 Nous proposons deux problèmatiques dans le domaine du pétrole.
 
-#Problèmatique 1 :  Valorisation et explotation des données historiques
+# Problèmatique 1 :  Valorisation et explotation des données historiques
 
 ## Contexte
 
