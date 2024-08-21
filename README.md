@@ -30,7 +30,7 @@ Figure 2 donne un exemple de fuites sur des pipelines de gaz. Elle est tirée de
 
 
 
-### Références
+# Références
 
 [1]: [**Kalpak Bansod**, **Yanshan Wan**, and **Yugesh Rai**. "Liquid Leak Detection Using Thermal Images." *arXiv preprint* arXiv:2312.10980, 2023](https://arxiv.org/pdf/2312.10980v1)
 
