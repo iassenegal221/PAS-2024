@@ -24,7 +24,7 @@ Dans le cadre de la gestion des infrastructures pétrolières et gazières, la d
 
 ![leak](https://github.com/user-attachments/assets/bf777e64-9f5e-4ab4-a862-513054789432)
 
-Fiugre 2 donne un exemple de fuites sur des pipelines de gaz tiré de l'article [1]. Pour plus de détails, nous vous recommandons de lire l'article.
+Fiugre 2 donne un exemple de fuites sur des pipelines de gaz tiré de l'article [1]. Pour plus de détails, nous vous recommandons de lire l'article. Vous pouvez ajouter cet artcle interessant [2].
 
 ## A propos de la base de données
 
@@ -33,5 +33,7 @@ Fiugre 2 donne un exemple de fuites sur des pipelines de gaz tiré de l'article 
 ### Références
 
 [1]: [**Kalpak Bansod**, **Yanshan Wan**, and **Yugesh Rai**. "Liquid Leak Detection Using Thermal Images." *arXiv preprint* arXiv:2312.10980, 2023](https://arxiv.org/pdf/2312.10980v1)
+
+[2]: [2]: [**Thang Bui Quy** and **Jong-Myon Kim**. "Real-Time Leak Detection for a Gas Pipeline Using Ak-NN Classifier and Hybrid AE Features." *Sensors*, vol. 21, no. 2, 2021, p. 367.](file:///D:/mdiaw/Downloads/sensors-21-00367-v2-1.pdf)
 
 
