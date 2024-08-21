@@ -24,6 +24,14 @@ Dans le cadre de la gestion des infrastructures pétrolières et gazières, la d
 
 ![leak](https://github.com/user-attachments/assets/bf777e64-9f5e-4ab4-a862-513054789432)
 
+Fiugre 2 donne un exemple de fuites sur des pipelines de gaz tiré de l'article []. Pour plus de détails, nous vous recommandons de lire l'article.
+
 ## A propos de la base de données
+
+
+
+### Références 
+
+[1] : BANSOD, Kalpak, WAN, Yanshan, et RAI, Yugesh. Liquid Leak Detection Using Thermal Images. arXiv preprint arXiv:2312.10980, 2023.
 
 
