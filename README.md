@@ -32,6 +32,9 @@ Fiugre 2 donne un exemple de fuites sur des pipelines de gaz tiré de l'article 
 
 ### Références 
 
+[1]: [**Kalpak Bansod**, **Yanshan Wan**, and **Yugesh Rai**. "Liquid Leak Detection Using Thermal Images." *arXiv preprint* arXiv:2312.10980, 2023](https://arxiv.org/pdf/2312.10980v1)
+
+
 [1] : BANSOD, Kalpak, WAN, Yanshan, et RAI, Yugesh. Liquid Leak Detection Using Thermal Images. arXiv preprint arXiv:2312.10980, 2023. [Consulter l'article sur arXiv](https://arxiv.org/pdf/2312.10980v1)
 
 
