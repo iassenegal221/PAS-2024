@@ -22,6 +22,8 @@ Les secteurs du pétrole et du gaz, ainsi que d'autres industries, font face à 
 
 Dans le cadre de la gestion des infrastructures pétrolières et gazières, la détection et la localisation des fuites sont des problématiques critiques pour de nombreuses entreprises du secteur. La longueur considérable des pipelines, souvent de plusieurs dizaines de kilomètres, complique les efforts de surveillance et de maintenance. De plus, les facteurs environnementaux, humains, et autres variables externes peuvent influencer le transport du gaz, rendant la détection manuelle des fuites non seulement difficile mais aussi inefficace. C'est dans ce contexte que l'intelligence artificielle (IA) devient une solution particulièrement prometteuse. En effet, l'utilisation de l'IA permet non seulement d'automatiser la détection des fuites, mais aussi d'optimiser leur localisation en se basant sur les variations de pression et de débit observées le long du pipeline.
 
+![leak](https://github.com/user-attachments/assets/ab1521ee-5cbe-4019-b9a8-9afbcf227a88)
+
 ## A propos de la base de données
 
 
