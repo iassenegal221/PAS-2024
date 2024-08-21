@@ -24,7 +24,7 @@ Dans le cadre de la gestion des infrastructures pétrolières et gazières, la d
 
 ![leak](https://github.com/user-attachments/assets/bf777e64-9f5e-4ab4-a862-513054789432)
 
-Figure 2 donne un exemple de fuites sur des pipelines de gaz tiré de l'article [1]. Pour plus de détails, nous vous recommandons de lire l'article. Vous pouvez ajouter cet artcle interessant [2].
+Figure 2 donne un exemple de fuites sur des pipelines de gaz. Elle est tirée de l'article [1]. Pour plus de détails, nous vous recommandons de lire l'article. Vous pouvez ajouter cet artcle interessant [2].
 
 ## A propos de la base de données
 
