@@ -15,9 +15,9 @@ Les secteurs du pétrole et du gaz, ainsi que d'autres industries, font face à 
 ## Objectifs 
 
 - Convertir les documents historiques en texte numérique structuré, avec une interface utilisateur intuitive pour faciliter l'exploitation des données.
-- 
+
 - Proposer des algorithmes pour analyser les données transformées, permettant de dégager des tendances, d'identifier des anomalies, et de valoriser les informations clés pour une meilleure prise de décision.
-- 
+ 
 - Ecrire un rapport détaillant la méthodologie, les algorithmes développés, et les résultats des tests, incluant des recommandations pour l'optimisation et l'intégration de l'outil dans les opérations pétrolières et gazières. 
 
 ## Description des données
