@@ -34,6 +34,16 @@ Dans le cadre de la gestion des infrastructures pétrolières et gazières, la d
 
 Figure 2 donne un exemple de fuites sur des pipelines de gaz. Elle est tirée de l'article [1]. Pour plus de détails, nous vous recommandons de lire l'article. Vous pouvez ajouter cet artcle interessant [2].
 
+## Objectifs 
+
+- Développer des algorithmes capables de détecter les fuites dans les pipelines avec une grande précision. Ces algorithmes devront être capables d'analyser les variations de débit et de pression en temps réel, et d'identifier les anomalies susceptibles d'indiquer une fuite.
+
+- Mettre en place des systèmes de surveillance en temps réel qui permettront de détecter rapidement les fuites. Ces systèmes doivent contribuer à réduire les impacts environnementaux potentiels en assurant une réponse rapide et efficace aux incidents.
+ 
+- Fournir une démonstration fonctionnelle de l'outil ou du système développé. Cette démonstration doit prouver que la solution est capable de détecter et de localiser les fuites efficacement dans un environnement simulé ou réel.
+
+- Ecrire un rapport détaillant la méthodologie employée, les algorithmes développés, et les résultats obtenus.
+
 ## Description des données
 
 
