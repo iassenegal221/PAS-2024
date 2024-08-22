@@ -12,7 +12,15 @@ Avec les nouvelles orientations et ambitions du gouvernement sénégalais de fai
 
 Les secteurs du pétrole et du gaz, ainsi que d'autres industries, font face à une problématique majeure liée à la gestion et à l'exploitation d'une grande quantité de données historiques actuellement disponibles sous forme d'images et de fichiers PDF. Ces données, souvent en format papier, sont difficiles à utiliser et à analyser dans leur état actuel, ce qui limite leur valeur opérationnelle. Pour surmonter ce défi, il est crucial de convertir ces documents en texte numérique exploi- table, permettant ainsi une meilleure gestion et une utilisation plus efficace des informations contenues. La solution proposée implique le développement d'outils d'OCR (Reconnaissance Optique de Caractères) capables d'extraire précisément les donnée des documents papier, d'images ou de fichiers PDF, pour les transformer en un format numérique structuré et exploitable.
 
-## A propos de la base de données
+## Objectifs 
+
+- Convertir les documents historiques en texte numérique structuré, avec une interface utilisateur intuitive pour faciliter l'exploitation des données.
+- 
+- Proposer des algorithmes pour analyser les données transformées, permettant de dégager des tendances, d'identifier des anomalies, et de valoriser les informations clés pour une meilleure prise de décision.
+- 
+- Ecrire un rapport détaillant la méthodologie, les algorithmes développés, et les résultats des tests, incluant des recommandations pour l'optimisation et l'intégration de l'outil dans les opérations pétrolières et gazières. 
+
+## Description des données
 
 
 
@@ -26,7 +34,7 @@ Dans le cadre de la gestion des infrastructures pétrolières et gazières, la d
 
 Figure 2 donne un exemple de fuites sur des pipelines de gaz. Elle est tirée de l'article [1]. Pour plus de détails, nous vous recommandons de lire l'article. Vous pouvez ajouter cet artcle interessant [2].
 
-## A propos de la base de données
+## Description des données
 
 
 
