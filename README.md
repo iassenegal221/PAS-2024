@@ -45,9 +45,9 @@ Les secteurs du pétrole et du gaz, ainsi que d'autres industries, font face à 
 
 
 
-# Problèmatique 2 :  Détection et localisation des fuites sur les pipelines de gaz
+# II. 2. Problèmatique 2 :  Détection et localisation des fuites sur les pipelines de gaz
 
-## Contexte
+## II. 2. 1. Contexte
 
 Dans le cadre de la gestion des infrastructures pétrolières et gazières, la détection et la localisation des fuites sont des problématiques critiques pour de nombreuses entreprises du secteur. La longueur considérable des pipelines, souvent de plusieurs dizaines de kilomètres, complique les efforts de surveillance et de maintenance. De plus, les facteurs environnementaux, humains, et autres variables externes peuvent influencer le transport du gaz, rendant la détection manuelle des fuites non seulement difficile mais aussi inefficace. C'est dans ce contexte que l'intelligence artificielle (IA) devient une solution particulièrement prometteuse. En effet, l'utilisation de l'IA permet non seulement d'automatiser la détection des fuites, mais aussi d'optimiser leur localisation en se basant sur les variations de pression et de débit observées le long du pipeline.
 
@@ -55,7 +55,7 @@ Dans le cadre de la gestion des infrastructures pétrolières et gazières, la d
 
 Figure 2 donne un exemple de fuites sur des pipelines de gaz. Elle est tirée de l'article [1]. Pour plus de détails, nous vous recommandons de lire l'article. Vous pouvez ajouter cet artcle interessant [2].
 
-## Objectifs 
+## II. 2. 2. Objectifs 
 
 - Développer des algorithmes capables de détecter les fuites dans les pipelines avec une grande précision. Ces algorithmes devront être capables d'analyser les variations de débit et de pression en temps réel, et d'identifier les anomalies susceptibles d'indiquer une fuite.
 
@@ -65,7 +65,7 @@ Figure 2 donne un exemple de fuites sur des pipelines de gaz. Elle est tirée de
 
 - Ecrire un rapport détaillant la méthodologie employée, les algorithmes développés, et les résultats obtenus.
 
-## Description des données
+## II. 2. 3. Description des données
 
 
 
