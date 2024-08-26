@@ -8,13 +8,13 @@ Avec les nouvelles orientations et ambitions du gouvernement sénégalais de fai
 
 # I. DOMAINE AGRICULTURE
 
-# Problèmatique  : 
+# I. 1. Problèmatique  : 
 
-## Contexte
+## I. 1. 1. Contexte
 
 L'agriculture centralise de nombreux enjeux sociétaux dans le monde : les agriculteurs, de moins en moins nombreux, devront nourrir une population croissante tout en réduisant au maximum leur impact sur l'environnement. Et cela, tout en proposant une alimentation à des prix accessibles ! Bien conduite, l'innovation, notamment l'intelligence artificielle, sera un outil précieux pour aider les agriculteurs à relever cet immense défi. Pour améliorer la productivité de vos terres tout en respectant les pratiques agricoles durables, adoptez une rotation des cultures efficace pour maintenir la fertilité des sols et gérez l'irrigation selon les saisons pour optimiser l'utilisation de l'eau. Utilisez des technologies, y compris l'IA générative, pour accéder à des informations agricoles utiles et détecter précocement les maladies des cultures. Pour accéder aux marchés, visez des canaux permettant de vendre à un prix équitable avec une bonne traçabilité, en tenant compte des récoltes saisonnières et des pics de demande, comme pendant la Tabaski et Korité, pour éviter le gaspillage.
 
-## Objectifs 
+## I. 1. 2. Objectifs 
 
 -  Développer des solutions d'IA pour conseiller les agriculteurs, estimer les rendements, gérer l'irrigation, et lancer des alertes sur les ravageurs et les maladies.
 
@@ -23,7 +23,7 @@ L'agriculture centralise de nombreux enjeux sociétaux dans le monde : les agric
 -  Ecrire un rapport décrivant les solutions développées, les méthodologies utilisées, et les recommandations pour la mise en œuvre et l'amélioration continue des systèmes et de l'application.
 
 
-## Description des données
+## I. 1. 3. Description des données
 
 # II. DOMAINE PETROLIERE
 
