@@ -4,7 +4,13 @@ Le PAS Challenge a pour objectif d'encourager les jeunes à utiliser les technol
 
 Avec les nouvelles orientations et ambitions du gouvernement sénégalais de faire de l’agriculture et du pétrole des piliers de la souveraineté nationale, cette édition du challenge sera axée sur l'utilisation des capacités de l'IA pour développer des solutions d’agriculture intelligente et pour optimiser l'exploitation des ressources pétrolières.
 
-#### Nous proposons deux problèmatiques dans le domaine du pétrole.
+#### Nous proposons une problèmatique dans le domaine de l'agriculture et deux problèmatiques dans le domaine du pétrole.
+
+# DOMAINE AGRICULTURE
+
+# Problèmatique 1 :  Valorisation et explotation des données historiques
+
+## Contexte
 
 # Problèmatique 1 :  Valorisation et explotation des données historiques
 
