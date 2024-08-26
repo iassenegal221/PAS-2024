@@ -8,7 +8,7 @@ Avec les nouvelles orientations et ambitions du gouvernement sénégalais de fai
 
 # I. DOMAINE AGRICULTURE
 
-# Problèmatique  :  Valorisation et explotation des données historiques
+# Problèmatique  : 
 
 ## Contexte
 
