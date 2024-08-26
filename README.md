@@ -6,7 +6,7 @@ Avec les nouvelles orientations et ambitions du gouvernement sénégalais de fai
 
 #### Nous proposons une problèmatique dans le domaine de l'agriculture et deux problèmatiques dans le domaine du pétrole.
 
-# DOMAINE AGRICULTURE
+# I. DOMAINE AGRICULTURE
 
 # Problèmatique  :  Valorisation et explotation des données historiques
 
@@ -14,7 +14,7 @@ Avec les nouvelles orientations et ambitions du gouvernement sénégalais de fai
 
 ## Description des données
 
-# DOMAINE PETROLIERE
+# II. DOMAINE PETROLIERE
 
 # Problèmatique 1 :  Valorisation et explotation des données historiques
 
