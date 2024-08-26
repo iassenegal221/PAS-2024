@@ -12,6 +12,17 @@ Avec les nouvelles orientations et ambitions du gouvernement sénégalais de fai
 
 ## Contexte
 
+L'agriculture centralise de nombreux enjeux sociétaux dans le monde : les agriculteurs, de moins en moins nombreux, devront nourrir une population croissante tout en réduisant au maximum leur impact sur l'environnement. Et cela, tout en proposant une alimentation à des prix accessibles ! Bien conduite, l'innovation, notamment l'intelligence artificielle, sera un outil précieux pour aider les agriculteurs à relever cet immense défi. Pour améliorer la productivité de vos terres tout en respectant les pratiques agricoles durables, adoptez une rotation des cultures efficace pour maintenir la fertilité des sols et gérez l'irrigation selon les saisons pour optimiser l'utilisation de l'eau. Utilisez des technologies, y compris l'IA générative, pour accéder à des informations agricoles utiles et détecter précocement les maladies des cultures. Pour accéder aux marchés, visez des canaux permettant de vendre à un prix équitable avec une bonne traçabilité, en tenant compte des récoltes saisonnières et des pics de demande, comme pendant la Tabaski et Korité, pour éviter le gaspillage.
+
+## Objectifs 
+
+-  Développer des solutions d'IA pour conseiller les agriculteurs, estimer les rendements, gérer l'irrigation, et lancer des alertes sur les ravageurs et les maladies.
+
+-  Créer une application permettant l'accès et le partage d'informations, avec des fonctionnalités adaptées aux besoins locaux, telles que la gestion des cultures en fonction de la météo, du type de sol, et des besoins en eau.
+
+-  Ecrire un rapport décrivant les solutions développées, les méthodologies utilisées, et les recommandations pour la mise en œuvre et l'amélioration continue des systèmes et de l'application.
+
+
 ## Description des données
 
 # II. DOMAINE PETROLIERE
