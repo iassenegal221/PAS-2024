@@ -8,6 +8,14 @@ Avec les nouvelles orientations et ambitions du gouvernement sénégalais de fai
 
 # DOMAINE AGRICULTURE
 
+# Problèmatique  :  Valorisation et explotation des données historiques
+
+## Contexte
+
+## Description des données
+
+# DOMAINE PETROLIERE
+
 # Problèmatique 1 :  Valorisation et explotation des données historiques
 
 ## Contexte
